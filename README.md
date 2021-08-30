@@ -1,4 +1,6 @@
-Olá, eu sou a Michelli 👩‍💻
+<div> 
+  <img src="https://media.discordapp.net/attachments/779073557887844422/881701900456689664/mih.png"/>
+ </div>
 
 - 📲 Hoje estudo front-end e mobile
 - 💻 Estudando Swift
