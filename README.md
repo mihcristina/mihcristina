@@ -6,8 +6,8 @@
 - 💻 Estudando Swift
 - 💌 Contate-me no e-mail: contato@michellicristina.com.br
 
-<div>
-  <a href="https://github.com/mihcristina>
+ <div>
+  <a href="https://github.com/mihcristina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mihcristina&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihcristina&layout=compact&langs_count=7&theme=jolly"/>
 </div>
