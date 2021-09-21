@@ -1,5 +1,5 @@
 <div> 
-  <img src="https://media.discordapp.net/attachments/645702470156156966/889692815402102874/MichelliCristina.png?width=1510&height=849"/>
+  <img src="https://media.discordapp.net/attachments/645702470156156966/889693473500962887/MichelliCristina_1.png"/>
  </div>
 
 - 📲 Hoje estudo front-end e mobile
