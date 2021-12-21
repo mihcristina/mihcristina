@@ -2,7 +2,7 @@
   <img src="https://media.discordapp.net/attachments/645702470156156966/889693473500962887/MichelliCristina_1.png"/>
  </div>
 
-- 📲 Hoje estudo front-end e mobile
+- 📲 Mobile
 - 💻 Estudando Swift
 - 💌 Contate-me no e-mail: contato@michellicristina.com.br
 
