@@ -4,7 +4,6 @@
 
 - 📲 Mobile
 - 💻 Swift
-- 🚌 Clickbus
 - 💌 Contate-me no e-mail: contato@michellicristina.com.br
 
  <div>
