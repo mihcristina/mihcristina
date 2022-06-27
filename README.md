@@ -1,7 +1,3 @@
-<div> 
-  <img src="https://media.discordapp.net/attachments/642404023026319386/930392728905343027/layout.png"/>
- </div>
-
 - 📲 Mobile
 - 💻 Swift
 - 💌 Contate-me no e-mail: contato@michellicristina.com.br
