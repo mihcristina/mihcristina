@@ -1,5 +1,5 @@
 - 📲 Mobile
-- 💻 Swift
+- 💻 Swift e Dart
 - 💌 Contate-me no e-mail: contato@michellicristina.com.br
   
   ##
