@@ -1,14 +1,29 @@
-- 📲 Mobile
-- 💻 Swift e Dart
-- 💌 Contate-me no e-mail: contato@michellicristina.com.br
-  
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/micplima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@michellicristina.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/michelli-cristina-de-paulo-lima-82ab8b104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/mihcristina/mihcristina/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Olá, meu nome é Michelli Cristina, sou <strong>Desenvolvedora iOS</strong> na Accenture.<br>
+  Formada em Sistemas para Internet pela FIAP.
+</p>
+
+<p align="left">
+  🦄 Linguagens: Swift e Dart
+</p>
+
+<p align="left">
+  💼 Ferramentas: xcode, git / github, bitbuck, jenkins.
+</p>
+
+<p align="left">
+  💌 Quer saber mais? Entre em contato comigo ⤵️
+</p>
+
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=contato@michellicristina.com.br" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mihcristina/" /></a>
+
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511954155172"/></a>
+</p>
